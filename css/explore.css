@@ -1,0 +1,29 @@
+*{
+    margin : 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    text-align: center;
+}
+.image1{
+    margin: 10px;
+}
+.image2 {
+    margin: 10px;
+    size-adjust: 1mm;
+
+}
+.image3 {
+margin: 10px;
+}
+.image4{
+    margin: 10px;
+}
+.image{
+margin:10px;
+}
+.para{
+    margin: 10px;
+}
